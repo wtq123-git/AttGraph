@@ -1,0 +1,5 @@
+Epoch 18:
+Best Fusion Weights -> raw: 0.50, local: 0.50
+Raw Loss: 1.0884, Local Loss: 1.0780, Total Loss: 2.1664
+Sum Accuracy (Top1~Top5): 78.36% 85.48% 88.08% 89.64% 90.54%
+
