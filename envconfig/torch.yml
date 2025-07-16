@@ -92,4 +92,4 @@ dependencies:
     - wcwidth==0.1.7
     - webencodings==0.5.1
     - widgetsnbextension==3.5.0
-prefix: /media/hdd0/zhangfan/miniconda3/envs/torch
+prefix:
